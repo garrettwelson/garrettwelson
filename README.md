@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there 👋 I'm Garrett
+
+**Pronouns:** [He/him/his](http://pronoun.is/he)
+
+I'm a software engineer at LinkedIn. I learned to code at Hack Reactor in Austin, TX. I'm an alumnus of Williams College, where I read a lot about political science.
+
+I'm currently working on an updated personal site/blog that will be deployed at [welson.co](https://welson.co). After getting that online, I'll be blogging about learning CS topics as a non-CS grad, contributing to open source projects, and whatever else I'm working on at the moment.
+
 
 <!--
 **garrettwelson/garrettwelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
