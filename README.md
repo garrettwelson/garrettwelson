@@ -10,10 +10,10 @@ I'm currently working on an updated personal site/blog that will be deployed at 
 
 A few technologies I've been enjoying lately are:
 
-* 🐹 Ember
-* 🎈 Eleventy
-* 💅 CSS and Sass
-* 🦀 Rust
+* 🐹  Ember
+* 🎈  Eleventy
+* 💅  CSS and Sass
+* 🦀  Rust
 
 <!--
 **garrettwelson/garrettwelson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
