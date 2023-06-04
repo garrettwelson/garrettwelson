@@ -15,4 +15,3 @@ A few technologies I've been enjoying lately are:
 * 💅  CSS
 * 🚀  Astro
 
-### Recent blog posts
